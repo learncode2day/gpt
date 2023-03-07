@@ -7,7 +7,7 @@ const { TextArea } = Input;
 
 function App() {
   const configuration = new Configuration({
-    apiKey: "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",
+    apiKey: "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",
   });
   const openai = new OpenAIApi(configuration);
 
